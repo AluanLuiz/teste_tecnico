@@ -1,0 +1,14 @@
+Liguemos o 1° interruptor e esperamos algum tempo para então desliga-lo.
+Logo em seguida ligamos o 2° interruptor e vamos conferir em qualquer sala (um ida):
+    - Se estiver apagada mas quente, então é o 1° interruptor;
+    - Se a lampada estiver acessa é o 2° interruptor;
+    - Se estiver apagada e fria, então é o 3° interruptor;
+
+Suponhamos que na 1° sala seja o 3° interruptor.
+Fazemos a mesma coisa anteriormente.
+Conferindo a 2° sala (duas idas):
+    - Se estiver apagada mas quente, então é o 1° interruptor;
+    - Se a lampada estiver acessa é o 2° interruptor;
+
+Suponhamos novamente que na 2° sala seja o 2° interruptor.
+Logo, o 1° interruptor acende a lampada na 3° sala.
